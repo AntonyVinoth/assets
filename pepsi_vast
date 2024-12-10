@@ -11,7 +11,7 @@
             <Duration>00:00:25</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="300" height="250">
-                <![CDATA[https://raw.githubusercontent.com/AntonyVinoth/assets/refs/heads/main/pepsi-300x250.mp4]]>
+                <![CDATA[https://storage.googleapis.com/adinte/poc/assets/pepsi.mp4]]>
               </MediaFile>
             </MediaFiles>
             <TrackingEvents>
